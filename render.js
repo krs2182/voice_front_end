@@ -2,6 +2,10 @@
 // master
 
 document.getElementById("displaytext").style.display = "none";
+function reload_page()
+{
+  location.reload();
+}
 function searchPhoto()
 {
   
