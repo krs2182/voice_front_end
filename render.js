@@ -1,4 +1,5 @@
 
+// master
 
 document.getElementById("displaytext").style.display = "none";
 function searchPhoto()
